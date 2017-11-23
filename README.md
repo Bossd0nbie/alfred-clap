@@ -3,6 +3,8 @@
 
 > Clap stuff out!
 
+[scn](https://github.com/jacc/alfred-clap/blob/master/scn.png)
+
 
 ## Install
 
