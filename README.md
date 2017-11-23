@@ -3,7 +3,7 @@
 
 > Clap stuff out!
 
-[scn](https://github.com/jacc/alfred-clap/blob/master/scn.png)
+[scn](https://cdn.rawgit.com/jacc/alfred-clap/37250f14/scn.png)
 
 
 ## Install
