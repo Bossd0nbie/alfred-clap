@@ -4,9 +4,9 @@
 
 ## Install
 
-Run `npm install --global alfred-clap` in your favorite terminal!
+Run `npm install --global alfred-clap` in your terminal
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
+*Note: Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
 ## Usage
